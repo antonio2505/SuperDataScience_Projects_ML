@@ -1,1 +1,1 @@
-# SuperDataScience_Projects_ML
+# Machone Learning Practicals Projects
