@@ -1,1 +1,1 @@
-# Machone Learning Practicals Projects
+# Machine Learning Practical Projects
